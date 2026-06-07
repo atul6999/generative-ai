@@ -11,7 +11,7 @@ A minimal Python FastAPI scaffold for generative AI projects.
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   uv sync --active --all-extras
    ```
 3. Run the app:
    ```bash
